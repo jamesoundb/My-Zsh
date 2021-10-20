@@ -1,1 +1,1 @@
-My configs for eliminating history persistence between shell sessions, i.e. every new session opened will have it's own history.
+My configs for different .zshrc files. Files are located in the lib directory with underscores that are named for how they behave. ie: .zshrc_no_history eliminates history persistence. Remove the underscores and put the file in your home directory for use with the Oh-My-Zsh framework.
