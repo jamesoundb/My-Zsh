@@ -74,7 +74,7 @@ plugins=(git colorize jsontools chucknorris ssh-agent)
 
 # ssh-agent
 zstyle :omz:plugins:ssh-agent agent-forwarding yes
-zstyle :omz:plugins:ssh-agent helper ksshaskpas
+zstyle :omz:plugins:ssh-agent helper ksshaskpass
 zstyle :omz:plugins:ssh-agent identities id_rsa github google_compute_engine
 
 
